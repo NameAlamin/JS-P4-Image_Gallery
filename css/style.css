@@ -1,0 +1,46 @@
+.wrapper{
+    width: 1000px;
+    height: 730px;
+    background: #7952B3;
+    position: relative;
+    margin: 0 auto;
+    margin-top: ;
+}
+.div-h1{
+    position: absolute;
+    left: 400px;
+    color: #ffffff;
+}
+.main-img img{
+    width: 900px;
+    height: 350px;
+    position: absolute;
+    left: 50px;
+    top: 75px;
+    outline: 1px solid red;
+}
+.sub-img .img2{
+    width: 288px;
+    height: 250px;
+    position: absolute;
+    /* top: 395px; */
+    top: 440px;
+    left: 50px;
+    outline: 1px solid red;
+}
+.sub-img .img3{
+    width: 288px;
+    height: 250px;
+    position: absolute;
+    top: 440px;
+    left: 355px;
+    outline: 1px solid red;
+}
+.sub-img .img4{
+    width: 288px;
+    height: 250px;
+    position: absolute;
+    top: 440px;
+    left: 659px;
+    outline: 1px solid red;
+}
